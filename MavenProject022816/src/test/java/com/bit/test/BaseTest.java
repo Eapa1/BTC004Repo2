@@ -17,6 +17,7 @@ public class BaseTest
 	public void end()
 	{
 		System.out.println("habib");
+		System.out.println("dinul");
 		System.out.println("hi");
 		b.closeBrowser();
 	}
