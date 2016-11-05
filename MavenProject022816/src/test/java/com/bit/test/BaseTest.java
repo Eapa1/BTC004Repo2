@@ -16,6 +16,7 @@ public class BaseTest
 	@After
 	public void end()
 	{
+		System.out.println("its my day");
 		System.out.println("eapa ");
 		System.out.println("habib");
 		System.out.println("hi");
