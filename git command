@@ -1,0 +1,17 @@
+hi this is git class:
+How to add a file or project int git server:
+1.go to repo label
+2.paste yr file or project into repo
+3.git add -A
+4.git commit -m"any comment"
+5.git pull(if branch then)origin branch name
+6.git push origin branch name
+How to export a project from eclipse to repo
+1. Right click on eclipse
+2.Click export
+3.Select file system
+4.Click next
+5.Click browse
+6.Then finish
+
+//    git status---> to check everything commited or not//    git branch---> to check which branch//    git branch branch name----> to create branch//    git checkout branchName---> to switch the branch//    git checkout -b branchName---> to switched branch with creating branch//    git log----> to see log //    git merge branch name
