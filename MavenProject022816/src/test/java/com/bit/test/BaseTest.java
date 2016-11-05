@@ -16,6 +16,7 @@ public class BaseTest
 	@After
 	public void end()
 	{
+		System.out.println("habib");
 		System.out.println("hi");
 		b.closeBrowser();
 	}
