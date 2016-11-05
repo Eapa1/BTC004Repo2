@@ -1,0 +1,110 @@
+{
+    "articles": {
+        "articleWithAuthorPhoto": [
+            {  "URl":"noticias/2016/03/02/abogado-de-el-chapo-busca-acelerar-extradicion",
+    "Title":"Abogado de El Chapo busca acelerar extradición",
+    "Date":"MARZO 2, 2016",
+    "Time":"11:30 AM EDT",
+    "AuthorPhotoFileName":"ap.png",
+    "TextFormat":"Publisher",
+    "CoverImageFileName":"cesar-conde-don-francisco-the-academy-of-television-arts-sciences.jpg",
+    "PROMOTITLE":"Abogado de El Chapo pidió acelerar extradición a EEUU",
+    "VIDEOPROMOTITLE":"TEST ESCANDALO",
+    "VideoShowTitle":"Farándula",
+    "PromotionalImage":"el-chapo-segunda-captura.jpg",
+    "PROMODESCRIPTION":"La defensa asegura que la salud del capo está en riesgo, mientras el gobierno sostiene que no se violan sus derechos humanos.",
+    "KEYWORDS":"msn, chapo abogado, extradicion, guzman",
+    "BRAND":"Noticias Telemundo",
+    "CATAGORI":"mexico",
+    "PUBLISHSTATE":"Published",
+    "SOURCEBYLINE":"AP",
+    "BODY":"CIUDAD DE MEXICO (AP)"}
+        ],
+        "articleWithMediaGallery": [
+           {"URl":"noticias/2016/03/02/la-felicidad-tambien-puede-romper-tu-corazon?image=5131006",
+    "Title":"La felicidad también puede romper tu corazón",
+    "Date":"MARZO 2, 2016",
+    "Time":"9:45 AM EDT",
+    "ByLine":"Iván Cruz",
+    "CoverImageFileName":"cesar-conde-don-francisco-the-academy-of-television-arts-sciences.jpg",
+    "PROMOTITLE":"La felicidad también puede romper tu corazón",
+    "VIDEOPROMOTITLE":"TEST ESCANDALO",
+    "VideoShowTitle":"Farándula",
+    "PromotionalImage":"cesar-conde-don-francisco-the-academy-of-television-arts-sciences.jpg",
+    "PROMODESCRIPTION":"Estudio asegura que los acontecimiento felices pueden producir el 'síndrome del corazón roto.'",
+    "KEYWORDS":"msn, noticias, don francisco, telemundo",
+    "BRAND":"Noticias Telemundo",
+    "CATAGORI":"salud",
+    "PUBLISHSTATE":"Published",
+    "Source":"Noticias Telemundo",
+    "FeaturedGallery":"La señales de un ataque al corazón  (649866)",
+    "BODY":"La felicidad también pueden romper tu corazón."}
+        ],
+         "articleWithMPX": [
+           {"URl":"entretenimiento/2016/03/01/don-francisco-regresa-la-television-y-se-une-telemundo",
+    "Title":"Don Francisco regresa a la televisión y se une a Telemundo",
+    "Date":"MARZO 1, 2016",
+    "Time":"9:45 AM EDT",
+    "ByLine":"Telemundo Entretenimiento",
+    "CoverImageFileName":"cesar-conde-don-francisco-the-academy-of-television-arts-sciences.jpg",
+    "PROMOTITLE":"Don Francisco regresa a la televisión y se une a Telemundo",
+    "VIDEOPROMOTITLE":"TEST ESCANDALO",
+    "VideoShowTitle":"Farándula",
+    "PromotionalImage":"cesar-conde-don-francisco-the-academy-of-television-arts-sciences.jpg",
+    "PROMODESCRIPTION":"Don Francisco aportará su experiencia al equipo de Telemundo Noticias y también como corresponsal de noticias especial en una serie de entrevistas.",
+    "KEYWORDS":"msn, noticias, don francisco, telemundo",
+    "BRAND":"Farándula",
+    "CATAGORI":"entretenimiento noticias",
+    "PUBLISHSTATE":"Published",
+    "SOURCEBYLINE":"Telemundo Entretenimiento",
+    "BODY":"Mario Kreutzberger, Don Francisco, se une a la cadena Telemundo tras un acuerdo de múltiples años con la creación de una empresa de producción conjunta."
+   }
+           ],
+           
+           "articleWithAuthorFeature": [
+           {
+    "URl":"/entretenimiento/2016/03/01/stephen-king-anuncia-filme-dark-tower-con-matthew-mcconaughey-e-idris",
+    "Title":"Stephen King anuncia filme Dark Tower con Matthew McConaughey e Idris Elba",
+    "Date":"MARZO 1, 2016",
+    "Time":"5:45 PM EDT",
+    "ByLine":"",
+    "CoverImageFileName":"cesar-conde-don-francisco-the-academy-of-television-arts-sciences.jpg",
+    "PROMOTITLE":"Para saber si su marido era infiel, le puso una trampa con su mejor amiga (VIDEO)",
+    "VIDEOPROMOTITLE":"TEST ESCANDALO",
+    "VideoShowTitle":"Farándula",
+    "PromotionalImage":"cesar-conde-don-francisco-the-academy-of-television-arts-sciences.jpg",
+    "PROMODESCRIPTION":"Todo empezó cuando Leslie decidió poner a prueba la fidelidad de su marido Cody, con quien lleva casada tres y años y del cual tiene una hija.",
+    "KEYWORDS":"msn, Cody, idaho, estados unidos, Leslie Varner",
+    "BRAND":"",
+    "CATAGORI":"EXtras polemico polemicos",
+    "PUBLISHSTATE":"Published",
+    "Source":"EFE",
+    "FeaturedGallery":"",
+    "Mira":"MIRA TAMBIÉN:",
+    "BODY":"Los Ángeles, 1 mar (EFEUSA)."
+   
+ }
+           ],
+              "articleWithYoutubeVideo": [
+           {"ArticleDetailPageURl":"entretenimiento/2016/03/03/mujer-se-salva-milagrosamente-de-que-se-la-lleve-un-tornado-video",
+    "Title":"Mujer se salva milagrosamente de que se la lleve un Tornado (VIDEO)",
+    "Date":"MARZO 3, 2016",
+    "Time":"10:45 AM EDT",
+    "ByLine":"",
+    "CoverImageFileName":"cesar-conde-don-francisco-the-academy-of-television-arts-sciences.jpg",
+    "PROMOTITLE":"La felicidad también puede romper tu corazón",
+    "VIDEOPROMOTITLE":"TEST ESCANDALO",
+    "VideoShowTitle":"Farándula",
+    "PromotionalImage":"cesar-conde-don-francisco-the-academy-of-television-arts-sciences.jpg",
+    "PROMODESCRIPTION":"Kyra Johnson es una residente de Luisiana, se encontró en el paso de un tornado que arremetió contra la región de Luisiana la semana pasada.",
+    "KEYWORDS":"msn, noticias, don francisco, telemundo",
+    "BRAND":"Noticias Telemundo",
+    "CATAGORI":"salud",
+    "PUBLISHSTATE":"Published",
+    "Source":"Noticias Telemundo",
+    "FeaturedGallery":"La señales de un ataque al corazón  (649866)",
+    "BODY":"Kyra Johnson tiene una suerte increíble, o como ella cree, tiene la mano de Dios protegiéndola."}
+   ]
+
+    }
+}
